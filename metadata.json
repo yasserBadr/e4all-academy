@@ -1,0 +1,7 @@
+{
+  "name": "E4All Academy",
+  "description": "A professional platform for E4All Academy, providing English language courses for children, adults, IELTS preparation, and flexible private or group learning options.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
